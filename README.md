@@ -1,0 +1,2 @@
+# rdpRegInfo
+RDP Registry Information
